@@ -205,3 +205,4 @@ server {
 > **CLOUDFLARE NOTU:** Cloudflare kullanıyorsanız, `hackterm` subdomainini **DNS Only (Gri Bulut 🔘)** moduna getirin. Cloudflare Proxy (Turuncu Bulut) 3001 portunu engellemektedir.
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın! [GitHub - silent0607/hackterm](https://github.com/silent0607/hackterm)
+Update
