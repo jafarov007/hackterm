@@ -206,3 +206,4 @@ server {
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın! [GitHub - silent0607/hackterm](https://github.com/silent0607/hackterm)
 Update
+Update 2
